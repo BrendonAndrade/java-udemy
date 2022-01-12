@@ -1,3 +1,8 @@
+*.iml
+*misc.xml
+*modules.xml
+*vcs.xml
+
 # Compiled class file
 *.class
 
